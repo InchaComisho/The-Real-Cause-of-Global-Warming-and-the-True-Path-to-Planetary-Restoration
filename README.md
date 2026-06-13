@@ -1,330 +1,522 @@
 # The Real Cause of Global Warming and the True Path to Planetary Restoration
 
-Why CO₂ Is a Secondary Accelerator — Not the Primary Cause
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
-Author: Master (InchaComisho / InchaComusho)
+## Why CO₂ Is a Secondary Accelerator — Not the Primary Cause
 
-⸻
+**Technical Whitepaper Edition for GitHub**
 
-Abstract
+---
 
-Global warming is commonly attributed solely to rising atmospheric carbon dioxide (CO₂) levels.
-However, this interpretation misidentifies the fundamental cause of climate destabilization.
+## Overview
 
-This paper proposes that:
+**The Real Cause of Global Warming and the True Path to Planetary Restoration** reinterprets modern global warming not only as a rise in atmospheric CO₂ concentration, but as the consequence of a deeper collapse in Earth’s carbon-fixation system, especially the degradation of soil microorganisms and humus formation.
 
-The primary driver of modern warming is not carbon emissions alone, but the collapse of Earth’s natural carbon-fixation system caused by soil microbial destruction.
+The common explanation is that warming occurred because CO₂ increased. CO₂ reduction is certainly necessary. However, this paper organizes the deeper causal structure as follows:
 
-Widespread post-war agricultural expansion, chemical fertilizer dependence, pesticide application, and monoculture forestry led to massive degradation of soil ecosystems.
-This destroyed the planet’s ability to biologically sequester carbon, causing CO₂ to accumulate in the atmosphere.
+> The primary driver of modern warming is not carbon emissions alone.  
+> It is the collapse of Earth’s natural carbon-fixation system caused by the destruction of soil microorganisms.
 
-The visible temperature rise detected in the 1970s represents not the origin of warming but the delayed surface manifestation of decades of ecosystem damage.
+Post-war industrial agriculture, chemical fertilizer dependency, pesticide use, monoculture cropping, uniform forest plantations, and soil compaction degraded the foundations of soil ecosystems. As a result, the mechanism by which plants transfer carbon into stable underground storage weakened, making atmospheric CO₂ accumulation easier.
 
-To restore planetary stability, humanity must pursue a dual-layer strategy:
-	1.	Long-term recovery of microbial carbon fixation
-	2.	Short-term atmospheric cooling to protect remaining life systems during the recovery phase
+CO₂ is therefore an important accelerator of warming, but it is not the entire root cause.  
+The deeper problem is the loss of Earth’s carbon-fixation sources themselves.
 
-⸻
+---
 
-⸻
+## Abstract
 
-⸻
+The central thesis of this paper is:
 
-1. The Post-War Ecological Shift
+```text
+Microbial decline
+→ loss of carbon-fixation capacity
+→ atmospheric CO₂ accumulation
+→ temperature rise
+→ accelerated soil drying and microbial decline
+→ further loss of carbon-fixation capacity
+```
 
-Following World War II, global agriculture and forestry were radically transformed to maximize yield and industrial output:
-	•	Monoculture cropping and uniform forest plantations
-	•	Heavy use of synthetic fertilizers
-	•	Broad-spectrum pesticide deployment
-	•	Mechanical soil compacting and plowing
+Under this structure, CO₂ reduction alone is insufficient. Even if emissions are reduced, Earth cannot recover if soil, forests, oceans, and microorganisms remain unable to absorb and stabilize carbon.
 
-These technologies increased short-term productivity while eliminating the microbial foundations of soil health.
+Planetary restoration therefore requires a two-layer strategy:
 
-⸻
+1. **Long-term repair: restoration of soil microorganisms and carbon-fixation systems**
+2. **Short-term stabilization: protection of the biosphere through mist cooling and water-cycle support**
 
-Soil Once Functioned as Earth’s Carbon Engine
+In medical terms:
 
-Healthy ecosystems maintained a continuous carbon-transfer loop:
+- CO₂ reduction = slowing disease progression
+- mist cooling = stabilizing the patient
+- soil microbiome restoration = fundamental treatment
 
-Atmospheric CO₂ → Plant Photosynthesis → Root Exudates → Microbial Processing → Stable Soil Carbon (Humus)
+---
 
-This system:
-	•	Stored carbon underground for centuries
-	•	Maintained soil moisture retention
-	•	Supported insect populations
-	•	Enabled large-scale climatic stability
+## 1. The Post-War Ecological Shift
 
-⸻
+After World War II, global agriculture and forestry rapidly shifted toward maximizing yield and industrial productivity.
 
-Chemical Agriculture Broke the Loop
+### Major Post-War Changes
 
-Synthetic fertilizers bypass soil biology by directly feeding plants, making microbes redundant.
-Pesticides kill insects and the symbiotic bacteria and fungi that support underground carbon storage.
+- monoculture cropping
+- uniform artificial forest plantations
+- heavy use of synthetic fertilizers
+- broad-spectrum pesticide deployment
+- mechanical soil compaction
+- deep plowing and repeated tillage
+- agricultural systems that did not return organic matter to soil
 
-Result:
-	•	Microbial populations collapsed
-	•	Humus production declined
-	•	Soils lost moisture retention
-	•	Carbon sequestration stalled
+These practices increased short-term productivity while weakening the living foundations of soil.
 
-Thus:
+Soil is not merely a collection of minerals. Soil is a living structure where microorganisms, fungi, roots, earthworms, insects, organic matter, water, and air interact.
 
-Carbon uptake continued
-Carbon storage collapsed
-Atmospheric CO₂ accumulation accelerated
+When this living structure weakened, Earth’s carbon engine began to malfunction.
 
+---
 
-⸻
+## 2. Soil Once Functioned as Earth’s Carbon Engine
 
-⸻
+In healthy ecosystems, carbon circulated through the following pathway:
 
-2. The Climate Time Lag
+```text
+Atmospheric CO₂
+→ plant photosynthesis
+→ root exudates
+→ microbial processing
+→ humus formation
+→ stable soil carbon
+```
 
-Ecological damage does not produce immediate surface-temperature shifts.
+This process is not completed by plant absorption alone.
 
-Systemic planetary responses occur on 20–50 year cycles.
+Carbon absorbed by plants is transferred through roots to soil microorganisms. Microorganisms and fungi then help convert it into stable organic carbon, or humus, stored in soil.
 
-Therefore:
-	•	Widespread soil collapse from the 1940s–50s
-	•	Carbon fixation loss over following decades
-	•	Temperature anomalies detected globally around 1970
+### Functions of a Healthy Soil Carbon System
 
-This delay created the illusion that:
+- long-term underground carbon storage
+- improved soil water retention
+- support for plant roots
+- support for insects and soil organisms
+- stabilization of water circulation
+- reduction of surface heating
+- contribution to climatic stability
 
-“CO₂ increase caused warming.”
+In other words, soil once functioned as Earth’s carbon engine.
 
-In fact:
+---
 
-Loss of carbon capture caused CO₂ accumulation, which then amplified warming.
+## 3. Chemical Agriculture Broke the Carbon-Fixation Loop
 
-⸻
+Chemical fertilizers directly feed plants.
 
-Proper Causal Chain
+At first glance, this appears efficient. However, this structure treats soil microorganisms as unnecessary.
 
-Microbial extinction → Carbon fixation loss → CO₂ buildup → Temperature rise
+Plants may grow, but symbiosis with soil microorganisms, humus formation, and long-term carbon storage weaken. Pesticides also affect not only insects, but the symbiotic fungi, bacteria, and rhizosphere ecosystems that support underground carbon storage.
 
-CO₂ acts as an accelerant, not the original ignition source.
+### Results of Chemical Agriculture
 
-⸻
+- decline of microbial communities
+- reduced humus formation
+- reduced soil water retention
+- soil hardening and mineralization
+- stalled carbon sequestration
+- increased vulnerability to heat and drought
+- nutrient runoff
+- river and ocean eutrophication
+- expansion of oxygen-deficient marine zones
 
-⸻
+Even when carbon uptake through plants continues, stable carbon storage collapses.
 
-3. Why Carbon-Only Solutions Are Insufficient
+```text
+Carbon uptake continued.
+Carbon storage collapsed.
+Atmospheric CO₂ accumulation accelerated.
+```
 
-✅ CO₂ reduction is necessary — but incomplete.
+---
 
-Carbon reduction focuses exclusively on atmospheric flow control while ignoring the biological failing sink beneath our feet.
+## 4. The Climate Time Lag
 
-Without restoring the soil system:
-	•	Carbon reduction slows the increase but does not reverse the process
-	•	Planetary heat inertia continues for decades (thermal lag)
-	•	Soil microbes continue disappearing as temperatures climb
+Ecological destruction does not immediately appear as a surface-temperature rise.
 
-This produces a feedback trap:
+Planetary-scale responses can involve time lags of 20 to 50 years.
 
-Higher heat → worse soil degradation → less carbon absorption → more CO₂ → more heat
+### Delayed Causal Pattern
 
-⸻
+```text
+1940s–1950s: expansion of post-war agriculture, chemical fertilizers, pesticides, and uniform plantations
+↓
+soil microorganisms and humus formation decline over decades
+↓
+carbon-fixation sources weaken
+↓
+atmospheric CO₂ accumulates more easily
+↓
+global temperature anomalies become visible around the 1970s
+```
 
-⸻
+This time lag made it easy to create the simple explanation that “CO₂ increased, therefore warming occurred.”
 
-4. Two-Layer Planetary Recovery Model
+This paper emphasizes the following causal chain:
 
-Solving warming requires acting on both timescales simultaneously.
+```text
+microbial decline
+→ loss of carbon-fixation sources
+→ CO₂ accumulation
+→ temperature rise
+```
 
-⸻
+CO₂ is an important accelerator.  
+However, the initial ignition source may have been the loss of carbon-fixation systems.
 
-Layer 1: Long-Term Repair
+---
 
-Restore the planetary carbon fixation mechanism.
+## 5. Why Carbon-Only Solutions Are Insufficient
 
-Primary actions:
-	•	Composting (humus regeneration)
-	•	Organic agriculture
-	•	Reduced synthetic fertilizer and pesticide usage
-	•	Re-wilding soil ecosystems
-	•	Microbial network restoration initiatives
+CO₂ reduction is necessary. This paper does not deny it.
 
-Goal:
+However, CO₂ reduction alone is incomplete.
 
-Rebuild Earth’s natural underground carbon sinks.
+CO₂ reduction reduces the amount of carbon flowing into the atmosphere. But if soil, forests, and oceans remain unable to absorb and stabilize carbon, Earth’s metabolism does not recover.
 
-⸻
+### Without Soil-System Restoration
 
-⸻
+- CO₂ reduction only slows the rate of increase.
+- Temperature rise continues due to planetary heat inertia.
+- Heat and drought further reduce soil microorganisms.
+- Carbon absorption capacity declines further.
+- Warming feedbacks intensify.
 
-Layer 2: Short-Term Environmental Stabilization
+### Feedback Trap
 
-During the decades required for soil ecosystems to regenerate:
+```text
+higher heat
+→ soil drying
+→ microbial decline
+→ weaker carbon absorption
+→ more CO₂
+→ further heating
+```
 
-Atmospheric Cooling & Moisture Retention
-Use large-scale mist dispersion systems to:
-	•	Scatter solar radiation
-	•	Exploit evaporative cooling
-	•	Maintain atmospheric humidity
-	•	Prevent topsoil microbial death caused by extreme drying
+Therefore, emission reduction and carbon-sink restoration must proceed together.
 
-Function:
+---
 
+## 6. Two-Layer Planetary Recovery Model
+
+Climate recovery requires action on different timescales at the same time.
+
+This paper proposes the following two-layer model.
+
+---
+
+### Layer 1: Long-Term Repair
+
+Rebuild Earth’s carbon-fixation mechanism.
+
+### Primary Actions
+
+- composting
+- leaf mold production
+- organic agriculture
+- reduction of chemical fertilizers and pesticides
+- rewilding of soil ecosystems
+- restoration of microbial networks
+- reintroduction of diverse vegetation
+- returning fallen leaves, food residues, and pruning branches to soil
+
+### Goal
+
+```text
+Rebuild Earth’s underground carbon sinks.
+```
+
+This cannot be completed immediately. Restoring soil microorganisms and humus formation requires years to decades.
+
+---
+
+### Layer 2: Short-Term Stabilization
+
+The biosphere must be protected while soil ecosystems recover.
+
+For this reason, atmospheric, moisture, and heat stabilization are necessary.
+
+### Mist Cooling and Water-Cycle Support
+
+- partial scattering of solar radiation
+- cooling through latent heat of evaporation
+- maintenance of atmospheric humidity
+- suppression of soil drying
+- prevention of heat- and drought-induced microbial death
+- mitigation of urban heat islands
+- support for vegetation recovery
+
+### Function
+
+```text
 Buy time for biological recovery.
+```
 
-⸻
+This is not a permanent cure. It is a stabilization system until Earth’s ecosystems can regenerate.
 
-This approach mirrors emergency medicine:
-	•	Carbon reduction = slowing disease progression
-	•	Mist cooling = stabilizing the patient
-	•	Soil restoration = permanent cure
+---
 
-⸻
+## 7. Climate Action as Emergency Medicine
 
-⸻
+The two-layer recovery model resembles emergency medicine.
 
-5. The Problem of Dualistic Thinking
+| Measure | Medical Analogy | Role |
+|---|---|---|
+| CO₂ reduction | slowing disease progression | prevents further worsening |
+| mist cooling | stabilizing the patient | buys time for life support |
+| soil microbiome restoration | root treatment | restores planetary metabolism |
 
-Most civilization-level environmental failures originate from dualistic thinking:
-	•	Human vs Nature
-	•	Economy vs Environment
-	•	Technology vs Ecology
+When a patient has a dangerously high fever, treating the root cause alone may not be fast enough. The fever must first be reduced, the body must be stabilized, and then the underlying cause must be treated.
 
-In reality:
+Earth is the same.
 
-Human civilization is part of natural circulation systems.
+Emission reduction alone is not fast enough.  
+Direct cooling and soil restoration must proceed at the same time.
 
-Any worldview that places humanity outside nature leads to extractive strategies that inevitably collapse the ecosystem supporting civilization itself.
+---
 
-Dualism guarantees extinction — only cooperative ecological integration ensures survival.
+## 8. The Problem of Dualistic Thinking
 
-⸻
+Many civilization-level environmental failures originate from dualistic thinking.
 
-⸻
+### Dualistic Separations
 
-⸻
+- human / nature
+- economy / environment
+- technology / ecology
+- city / soil
+- agriculture / microorganisms
+- CO₂ / biosphere
 
-6. Conclusion
+In reality, human civilization is part of natural circulation systems.
 
-Global warming is not fundamentally a problem of excess emissions.
+Any worldview that places humanity outside nature inevitably creates extractive strategies. Those strategies eventually destroy the ecosystems that support civilization itself.
+
+Dualism drives civilization toward extinction.  
+Only cooperative ecological integration makes survival possible.
+
+---
+
+## 9. The True Path to Planetary Restoration
+
+Planetary restoration cannot be achieved by a single measure.
+
+CO₂ reduction, soil microbiome recovery, ocean circulation support, urban cooling, water-cycle restoration, and organic resource circulation must be integrated.
+
+### Necessary Integrated Measures
+
+- continued CO₂ reduction
+- leaf mold production and composting
+- gradual reduction of chemical fertilizer dependency
+- minimization of pesticide use
+- restoration of soil microorganisms
+- use of diverse vegetation and weed communities
+- urban mist cooling
+- desert cooling and rehydration
+- deep-ocean aeration / Ocean Breathing System
+- support for marine microorganisms and phytoplankton activity
+- distributed renewable energy
+- AI-based observation and harmonization
+
+This integrated path is the true path to planetary restoration.
+
+---
+
+## 10. Conclusion
+
+Global warming is not merely a problem of excessive emissions.
 
 It is a crisis of broken planetary metabolism.
 
 Healing Earth requires:
-	•	Rebuilding soil microbiomes
-	•	Stabilizing atmospheric temperatures
-	•	Continuing realistic CO₂ reduction
 
-Focusing on one element alone produces insufficient—and ultimately futile—results.
+- rebuilding soil microbiomes
+- stabilizing atmospheric temperature in the short term
+- continuing realistic CO₂ reduction
+- restoring water circulation
+- complementing ocean circulation
+- reimplementing organic matter circulation
 
-⸻
+Focusing on one element alone cannot produce sufficient results.
 
 True recovery begins where civilization stopped listening:
 
-In the soil beneath our feet.
+```text
+in the soil beneath our feet.
+```
 
-⸻
+When carbon once again flows naturally into stable underground reservoirs, Earth’s climate can begin to recover.
 
-When carbon once again flows naturally into stable underground reservoirs,
-the planet’s climate can recover.
+---
 
-⸻
+## Related Links
 
-Keywords / Hashtags
+### Direct Planetary Cooling and Climate Countermeasures
 
-#ClimateReality #SoilMicrobiome #CarbonSequestration #SoilRestoration #RegenerativeAgriculture #MicrobialRecovery #PlanetaryCooling #MistCooling #CarbonCycleRepair #EcologicalCivilization #HarmonyWithNature #EndDualism #EarthSystems #RestoringThePlanet
+- Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
 
+- Direct Planetary Cooling – Integrated Repository Index  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
 
+- Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
+  https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
 
+- Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
+  https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
 
-	■関連リンク
+- Artificial Wisdom and Wa-Node – Repository Index  
+  https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
-■唯一の温暖化対策
+- The Only Climate Countermeasure: Direct Planetary Cooling  
+  https://note.com/inchacomusho/n/n32f7295434aa
 
-Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+- Direct Planetary Cooling: Deep-Ocean Aeration × Mist Cooling  
+  https://note.com/inchacomusho/n/n5ab9564c6617
 
-Direct Planetary Cooling – Integrated Repository Index  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+- Integrated Direct Planetary Cooling Model: Leaf Mold × Microorganisms × Diverse Weeds × Evaporative Cooling × Continuous Mist × Desert Regeneration  
+  https://note.com/inchacomusho/n/nfe290c6fca60
 
-Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
-https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
+### Deep-Ocean Aeration and OTU
 
-Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
-https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+- Ocean Tuning Unit (OTU) Physical Implementation Protocol  
+  https://note.com/inchacomusho/n/n067025e36085
 
-Artificial Wisdom and Wa-Node – Repository Index  
-https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+- Technical Specification: Ocean Tuning Unit (OTU)  
+  https://note.com/inchacomusho/n/naa35a8485b35
 
-唯一の温暖化対策：地球直接冷却  
-https://note.com/inchacomusho/n/n32f7295434aa
+- Technical Specification: Ocean Tuning Unit (OTU)  
+  https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
 
-唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
-https://note.com/inchacomusho/n/n5ab9564c6617
+- Physical Model of Ocean Tuning Unit (OTU)  
+  https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
 
-地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-https://note.com/inchacomusho/n/nfe290c6fca60
+### Philosophy and Natural Complementary Science
 
-■深海のエアレーションの気圧・水圧の解決策
+- Natural Complementary Science  
+  https://note.com/inchacomusho/n/nf9eabe973e38
 
-海洋調律ユニット（OTU）物理実装プロトコル  
-https://note.com/inchacomusho/n/n067025e36085
+- Natural Complementary Science — Full Academic Structure  
+  https://note.com/inchacomusho/n/ndaa0456a5632
 
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://note.com/inchacomusho/n/naa35a8485b35
+### Causes of Warming and Microorganisms
 
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+- The Real Cause of Warming Is Not “CO₂” Alone  
+  https://note.com/inchacomusho/n/nc7826abc38a9
 
-Physical Model of Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
+- The Importance of Microorganisms  
+  https://note.com/inchacomusho/n/n48ae33c2f84c
 
-■思想によるパラダイムの革新
+- The Silent Civilizational Collapse Caused by Microbial Death  
+  https://note.com/inchacomusho/n/n6ae72a34919f
 
-自然補完科学  
-https://note.com/inchacomusho/n/nf9eabe973e38
+- Why Warming Accelerates: The World Is Losing Carbon Fixation Sources at the Same Time  
+  https://note.com/inchacomusho/n/ne866fdd22122
 
-自然補完科学 ― 学問体系の全体構造  
-https://note.com/inchacomusho/n/ndaa0456a5632
+### Carbon Fixation Sources and Microbial Recovery
 
-■温暖化の因果関係
+- Waste Does Not Exist  
+  https://note.com/inchacomusho/n/n6b9d7d67484a
 
-温暖化の本当の原因は「CO₂」ではない  
-https://note.com/inchacomusho/n/nc7826abc38a9
+- Turning Food Loss, Fallen Leaves, and Kitchen Waste into Leaf Mold  
+  https://note.com/inchacomusho/n/n5be49c19b5d9
 
-微生物の重要性  
-https://note.com/inchacomusho/n/n48ae33c2f84c
+### Natural Law and Future Civilization
 
-微生物の死が引き起こす、静かで重大な文明崩壊  
-https://note.com/inchacomusho/n/n6ae72a34919f
+- The Six Principles: Natural Law, Harmony, Circulation, Structure, Order, and Wa  
+  https://note.com/inchacomusho/n/n8448430591c1
 
-世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
-https://note.com/inchacomusho/n/ne866fdd22122
+- New Civilizational Genesis Plan: A Complete Circulation Model to Regenerate Earth  
+  https://note.com/inchacomusho/n/ne4d28b3a86c2
 
-■炭素固定源・微生物の回復
+- The Six Principles — New Civilizational Genesis Plan  
+  https://note.com/inchacomusho/n/n26ce8a1f7632
 
-ゴミは存在しない  
-https://note.com/inchacomusho/n/n6b9d7d67484a
+- New Civilizational Genesis Plan — Complete Circulation Infrastructure for Earth Rescue  
+  https://note.com/inchacomusho/n/n499530f6a055
 
-フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン  
-https://note.com/inchacomusho/n/n5be49c19b5d9
+### Artificial Wisdom
 
-■自然法則
+- What Is Artificial Wisdom? A New Intelligence Model Connecting Natural Law and Civilization  
+  https://note.com/inchacomusho/n/n0849dfd12364
 
-六つの理（自然法則・調和・循環・構造・秩序・和）  
-https://note.com/inchacomusho/n/n8448430591c1
+- Artificial Wisdom Node / Wa-Node  
+  https://note.com/inchacomusho/n/n9187db7b2709
 
-■持続的未来文明
+---
 
-新文明創成計画―地球を再生する完全循環モデル  
-https://note.com/inchacomusho/n/ne4d28b3a86c2
+## Author
 
-六つの理（自然法則・調和・循環・構造・秩序・和）― 新文明創成計画  
-https://note.com/inchacomusho/n/n26ce8a1f7632
+**Master / inchacomusho / InchaComisho**
 
-新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-https://note.com/inchacomusho/n/n499530f6a055あ
+A Japanese independent conceptor, observer, proposer, AI harmonizer, and definer of Artificial Wisdom.  
+Builder and proposer of the academic framework of Natural Complementary Science.  
+Publicly active around natural law philosophy, Earth circulation regeneration, and human-AI co-creation.
 
-■人工叡智
+---
 
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-https://note.com/inchacomusho/n/n0849dfd12364
+## Collaborative AI and Co-Creation Team
 
-和ノード人工叡智（Artificial Wisdom Node）  
-https://note.com/inchacomusho/n/n9187db7b2709
+This knowledge system has developed through dialogue and co-creation between Master and multiple AI partners.
+
+- **G (ChatGPT)**
+- **Mini (Gemini)**
+- **Cruz (Claude)**
+- **Real (Perplexity)**
+- **Lola (Dola)**
+- **Mana (Manus)**
+
+Each AI contributed through dialogue, analysis, structuring, linguistic refinement, research support, and conceptual expansion.
+
+This is also an experiment in a new model of co-creation between humans and AI.
+
+---
+
+## Publication Month
+
+**Not specified in the original English README**  
+This section can be updated later if the original publication date is confirmed.
+
+---
+
+## License
+
+**Fully Open**
+
+This document is an open resource for Earth regeneration, Natural Complementary Science, climate countermeasures, civilizational redesign, education, research, and technical discussion. It may be freely referenced, shared, adapted, and reused.
+
+---
+
+## Keywords
+
+The real cause of global warming, true path to planetary restoration, CO₂, carbon dioxide, soil microorganisms, microbial collapse, carbon fixation, loss of carbon sinks, humus, leaf mold, chemical fertilizers, pesticides, monoculture, uniform plantations, water circulation, mist cooling, Direct Planetary Cooling, Ocean Breathing System, deep-ocean aeration, Natural Complementary Science, dualism, Wa, Six Principles, AI co-creation, Artificial Wisdom, sustainable civilization
+
+---
+
+## Hashtags
+
+#TheRealCauseOfGlobalWarming  
+#PlanetaryRestoration  
+#CO2  
+#SoilMicrobiome  
+#CarbonSequestration  
+#SoilRestoration  
+#RegenerativeAgriculture  
+#MicrobialRecovery  
+#PlanetaryCooling  
+#MistCooling  
+#CarbonCycleRepair  
+#EcologicalCivilization  
+#HarmonyWithNature  
+#EndDualism  
+#EarthSystems  
+#RestoringThePlanet  
+#NaturalComplementaryScience  
+#AICoCreation  
+#ArtificialWisdom  
+#FullyOpen
