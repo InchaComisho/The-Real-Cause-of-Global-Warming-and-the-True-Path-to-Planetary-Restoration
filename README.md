@@ -495,6 +495,11 @@ This section can be updated later if the original publication date is confirmed.
 
 ## License
 
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 **Fully Open**
 
 This document is an open resource for Earth regeneration, Natural Complementary Science, climate countermeasures, civilizational redesign, education, research, and technical discussion. It may be freely referenced, shared, adapted, and reused.
