@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Real Cause of Global Warming and the True Path to Planetary Restoration
 
 **なぜCO₂は一次原因ではなく、二次的な加速要因なのか**
